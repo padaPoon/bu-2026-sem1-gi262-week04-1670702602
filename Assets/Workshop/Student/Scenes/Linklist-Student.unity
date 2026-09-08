@@ -555,9 +555,17 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1969535019}
     - target: {fileID: 5503489073733372733, guid: 317b12239e5391c4596a368f330b2fb6, type: 3}
+      propertyPath: ItemToOpen
+      value: Key
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503489073733372733, guid: 317b12239e5391c4596a368f330b2fb6, type: 3}
       propertyPath: mapGenerator
       value: 
       objectReference: {fileID: 760521284}
+    - target: {fileID: 5503489073733372733, guid: 317b12239e5391c4596a368f330b2fb6, type: 3}
+      propertyPath: ItemAmountToOpen
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
